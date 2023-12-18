@@ -1,6 +1,6 @@
 google-generativeai==0.3.1
 python-dotenv==1.0.0
 pyzotero==1.5.18
-beautifulsoup4
-openai
-langchain-google-genai
+beautifulsoup4==4.12.2
+openai==1.5.0
+langchain-google-genai==0.0.4
